@@ -4,7 +4,7 @@ Execute curl-like functions from slack. Test of slash-command integrations with 
 
 # Usage
 
-valid commands:
+Valid commands:
 
 /httpass https://google.com
 
