@@ -20,6 +20,10 @@ Valid commands:
 
 /httpass POST https://someapi.com/api -headers {this is a json of some headers}
 
+/httpass POST https://someapi.com/api -p {this is a json payload} -h {this is a json of some headers}
+
+/httpass POST https://someapi.com/api -h {this is a json of some headers} -p {this is a json payload}
+
 # Guide
 
 Add slash-command integration to slack:
