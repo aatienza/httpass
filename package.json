@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "localtunnel": "./node_modules/localtunnel/bin/client --port 3000",
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
